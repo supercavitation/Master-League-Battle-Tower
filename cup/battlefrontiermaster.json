@@ -1,0 +1,17 @@
+{
+    "name": "battlefrontiermaster",
+    "title": "Battle Frontier (Master League)",
+    "include": [],
+    "exclude": [{
+        "filterType": "tag",
+        "values": ["mega"]
+    }],
+    "tierRules": {
+        "max": 2,
+        "floor": 0,
+        "tiers": [{
+            "points": 1,
+            "pokemon": ["dialga_origin","kyurem_black","kyurem_white","necrozma_dawn_wings","necrozma_dusk_mane","palkia_origin","rhyperior","zacian_crowned_sword","zamazenta_crowned_shield","zygarde_complete"]
+        }]
+    }
+}
